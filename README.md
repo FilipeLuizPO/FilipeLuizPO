@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do FilipeLuizPO 😁
+## Bem-vindo(a) ao perfil de Filipe Luiz Pereira de Oliveira 😁
 
  <div>
    <a href="https://github.com/FilipeLuizPO">
@@ -12,10 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+
 <div> 
   
   <a href = "mailto:nit.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
